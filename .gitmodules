@@ -1,0 +1,33 @@
+[submodule "blog"]
+	path = blog
+	url = ./blog
+[submodule "hooks-simple"]
+	path = hooks-simple
+	url = ./components
+[submodule "components"]
+	path = components
+	url = ./components
+[submodule "pics"]
+	path = pics
+	url = ./pics
+[submodule "react-jsx"]
+	path = react-jsx
+	url = ./react-jsx
+[submodule "seasons-hooks"]
+	path = seasons-hooks
+	url = ./seasons
+[submodule "seasons"]
+	path = seasons
+	url = ./seasons
+[submodule "songs"]
+	path = songs
+	url = ./songs
+[submodule "streams"]
+	path = streams
+	url = ./streams
+[submodule "translate"]
+	path = translate
+	url = ./translate
+[submodule "videos"]
+	path = videos
+	url = ./videos
